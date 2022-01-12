@@ -1,0 +1,19 @@
+{
+  "name": "a00-zhehaowunc",
+  "version": "1.0.0",
+  "description": "demo setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a00-zhehaowUNC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a00-zhehaowUNC/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a00-zhehaowUNC#readme"
+}
